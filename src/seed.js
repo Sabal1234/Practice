@@ -5,7 +5,7 @@ const Seed = {
      products : [
         {
             id: 1,
-            title: 'Yellow Pail',
+            title: 'Ram',
             description: 'On-demand sand castle construction expertise.',
             url: ' www.google.com',
             votes: generateVoteCount(),
@@ -15,7 +15,7 @@ const Seed = {
         },
         {
             id: 2,
-            title: 'Green Pail',
+            title: 'Sham',
             description: 'On-demand sand castle construction expertise.',
               url: ' www.google.com',
             votes: generateVoteCount(),
@@ -24,7 +24,7 @@ const Seed = {
         },
         {
             id: 3,
-            title: 'Pink Paul',
+            title: 'Hari',
             description: 'On-demand sand castle construction expertise.',
              url: ' www.google.com',
             votes: generateVoteCount(),
