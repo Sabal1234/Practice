@@ -7,12 +7,16 @@ function Product(props) {
       </div>
  
         <div className='header'>
-          {props.votes}
+       {props.votes}
+        <button onClick={props.onVote} style={{ marginLeft: "10px" }}>
+          Upvote
+        </button>
         </div>
         <div className='description'>
           <a href={props.url}>{props.title}</a>
           <p>{props.description}</p>
-        </div>
+          </div>
+          
         <div className='extra'>
           <span>Submitted by:</span>
           <img
