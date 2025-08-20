@@ -8,7 +8,7 @@ function App() {
   
 
   return (
-    <div className='ui unstackable items'>
+    <div>
       <ProductList />
   </div>
   )
