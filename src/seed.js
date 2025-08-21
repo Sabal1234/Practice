@@ -19,8 +19,8 @@ const Seed = {
             description: 'On-demand sand castle construction expertise.',
               url: ' www.google.com',
             votes: generateVoteCount(),
-            submitterAvatarUrl: '/avatars/avatar.png',
-             productImageUrl: '/products/product.png',
+            submitterAvatarUrl: '/avatars/avatar2.png',
+             productImageUrl: '/products/product2.png',
         },
         {
             id: 3,
@@ -28,8 +28,8 @@ const Seed = {
             description: 'On-demand sand castle construction expertise.',
              url: ' www.google.com',
             votes: generateVoteCount(),
-          submitterAvatarUrl: '/avatars/avatar.png',
-             productImageUrl: '/products/product.png',
+          submitterAvatarUrl: '/avatars/avatar3.png',
+             productImageUrl: '/products/product3.png',
         },
     ]
     
