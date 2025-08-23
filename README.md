@@ -9,3 +9,4 @@ When we click the Upvote button, the product’s vote count goes up, and the lis
 - Products with more votes move to the top of the list.
 ### Output
 ![Output](/public/assets/image.png)
+![Output](/public/assets/image2.png)
