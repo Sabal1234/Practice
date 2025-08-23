@@ -1,12 +1,11 @@
-# React + Vite
+# Product Voting App
+- This is a small React app where you can see a list of products and vote is shown.
+When we click the Upvote button, the product’s vote count goes up, and the list automatically reorders so that the most popular products are shown first.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+ ## What it does
+ - Shows a list of products with images, titles, and descriptions.
+- Each product has a vote count.
+- We can click Upvote to give it more votes.
+- Products with more votes move to the top of the list.
+### Output
+![Output](/public/assets/image.png)
